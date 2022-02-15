@@ -1,7 +1,14 @@
 body{
-    background-color:whitesmoke;
-    
+  /* background-color:whitesmoke; */
+  background-color: aliceblue;
+    width:fit-content;
 } 
+#box{
+  background-color: whitesmoke;
+  height: 200px;
+  text-align: center;
+  font-size: xx-large;
+}
 .centered {
     text-align:center;
 }
