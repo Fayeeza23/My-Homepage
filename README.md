@@ -1,7 +1,7 @@
 # My-Homepage
 CSS properties :
 
-background-color;
+*background-color;
 color
 Border-width
 Border-radius 
