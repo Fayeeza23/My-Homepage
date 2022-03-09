@@ -1,0 +1,105 @@
+body{
+  background-color: aliceblue;
+  width:fit-content;
+} 
+#box{
+  background-color: whitesmoke;
+  height: 200px;
+  text-align: center;
+  font-size: xx-large;
+}
+.centered {
+    text-align:center;
+}
+
+.large{
+  font-size: x-large;
+  font-style:normal;
+  font: bolder;
+}
+
+img{
+    width: 100px;
+    border: black;
+    align-content: center;
+    border-radius: 50%;
+    float: inline-end;
+}
+.outline{
+  outline-style: solid;
+  outline-width: 4px;
+  margin-right: 90px;
+  margin-left: 90px;
+  outline-color:#25488e;
+}
+.topleft {
+  position: fixed;
+  top: 15px;
+  left: 30px;
+}
+footer {
+  background-color:none;
+  position:fixed;
+  bottom: 10px;
+  width:150px;
+  font: icon;
+  font-style: italic;
+  color:rgb(228, 22, 22);
+  }
+.topright {
+  position:absolute;
+  width: 240px;
+  border: 10px;
+  top: 20px;
+  right: 15px; 
+  font-size:15px;
+  
+}
+.bottomright {
+  width: 166px;
+  border: 10px;
+  bottom: 10px;
+  right: 15px; 
+  font-size:15px;
+  padding: 10px;
+}
+.fixed {
+    margin-right: 150px;
+    margin-left: 150px;
+  }
+  h3{
+  margin-right: 150px;
+  margin-left: 70px;
+
+
+  }
+  li{
+    font-size: large;
+    margin-right: 150px;
+    margin-left: 70px;
+  }
+  .para-margin{
+    margin-right: 150px;
+  margin-left: 70px;
+  font-size: large;   
+  }
+.reference{
+    color: rgba(184, 19, 49, 0.686);
+    background: none;
+    text-decoration: none;
+}
+
+  a:visited {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  mark.color {
+    color:#25488e;
+    background: none;
+}
