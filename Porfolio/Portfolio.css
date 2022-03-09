@@ -32,6 +32,21 @@ body{
     color:#1b3b6f;
     background-color: #1b3b6f;
 }
+
+.name{
+    font-family:cursive;
+    text-shadow: 0 0 5px #fff,
+                0 0 10px #fff,
+                0 0 10px #fff,
+                0 0 10px #fff,
+                0 0 10px #fff,
+                0 0 20px #004e64,
+                0 0 30px #004e64,
+                0 0 40px #004e64,
+                0 0 50px #004e64,
+                0 0 75px #004e64;
+
+}
 li{
     text-align: center;
 }
@@ -53,8 +68,22 @@ h1{
     color:#3c096c;
 }
 #contact{
+    transition-duration:6s ;
     background-color: #bad7f2;
     border-radius: 50%;
     border-style: double;
 }
 
+#about
+{
+    transition-duration:5s ;
+}
+#edu{
+    transition-duration:3s ;
+}
+#skills{
+    transition-duration:4s ;
+}
+#experience{
+    transition-duration:5s ;
+}
