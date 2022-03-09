@@ -1,0 +1,60 @@
+body{
+    background-color:#f4f4f9;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.navbar{
+    background-color:#f4f4f9;
+}
+#mainNavbar .navbar-brand{
+    color:#004e64;
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+#mainNavbar .navbar-brand:hover{
+    color:#bad7f2;
+}
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+#mainNavbar .nav-link{
+    color:#1b3b6f;
+    
+}
+#mainNavbar .nav-link.active:hover{
+    color:#ffffff;
+    background-color: #9eb3c2;
+    background: #9eb3c2;
+}
+
+#mainNavbar .navbar-toggler{
+    color:#1b3b6f;
+    background-color: #1b3b6f;
+}
+li{
+    text-align: center;
+}
+img{
+    width: 150px;
+    transition-property: sliding-vertically;
+}
+#header {
+    background-color: #bad7f2;
+}
+#one{
+    background-color: #004e64;
+}
+
+h1{
+    color:ghostwhite
+}
+#Profile{
+    color:#3c096c;
+}
+#contact{
+    background-color: #bad7f2;
+    border-radius: 50%;
+    border-style: double;
+}
+
